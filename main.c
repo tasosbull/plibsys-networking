@@ -4,7 +4,7 @@
 #include <plibsys.h>
 #include <psocket.h>
 #define MAX_MESSAGE_LENGTH 1024
-#define SERVER_PORT 5432
+#define SERVER_PORT 5555
 
 
 int do_server_things()
